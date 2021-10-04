@@ -31,6 +31,6 @@ def chooseDice():
         print("Rolling dice 200..")
         print("You got",D200())
     else:
-        print("That's not a valid dice!") 
+        print("That's not a valid die!") 
         
 chooseDice()
